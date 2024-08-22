@@ -30,6 +30,8 @@
 
 Este repositorio contiene el código para la presentación de la charla «Integración de ChatGPT en la Metodología de Aula Invertidaformulario» El documento en PDF se encuentra disponible en el siguiente enlace: [Presentación](https://github.com/andres-merino/Presentacion-ChatGPT-AulaInvertida/blob/main/AulaInvertida.pdf).
 
+El material al que hace referencia en la charla, puede sen encontrado aquí: [Material](https://github.com/andres-merino/Presentacion-ChatGPT-AulaInvertida/blob/main/Material).
+
 ### Construido con
 
 [![LaTeX][LaTeX]][LaTeX-url]
