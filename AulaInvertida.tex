@@ -1,0 +1,69 @@
+\documentclass[aspectratio=169]{beamer}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Paquetes
+\input{formatoBeamerPUCE}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Datos
+\title{Integración de ChatGPT en la Metodología de Aula Invertida}
+\author{Andrés Merino}
+\date{Agosto 2024}
+\institute{Escuela de Ciencias Físicas y Matemática}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Página de título
+
+\fondo{inicio}
+\begin{frame}[plain]
+    \vspace*{0.85cm}
+    \addtocounter{framenumber}{-1}
+    \hspace*{0.6cm}
+    \begin{minipage}[t]{\dimexpr\textwidth-1cm}
+        \titlepage
+    \end{minipage}
+\end{frame}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Página de índice 
+\fondo{blanco}
+\begin{frame}
+    \frametitle{Contendio}
+    \vspace*{-0.5cm}
+    
+    \tableofcontents
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Sección 1
+\include{Secciones/01Introduccion}
+\include{Secciones/02AulaInvertida}
+\include{Secciones/03ChatGPT}
+\include{Secciones/04Caso}
+\include{Secciones/05conclusiones}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Página final
+\fondo{final}
+\begin{frame}[plain]
+\begin{center}
+    \color{white}
+    {\Huge\textbf{Gracias}}
+
+    \vspace{0.5cm}
+    \textbf{Contacto:} aemerinot@puce.edu.ec
+
+    \begin{tabular}{ccC}
+        \includegraphics[width=2.5cm]{Figuras/QR-links.png} &&  \\
+        \LARGE \faGithub\hspace{5mm} \faLinkedin\hspace{5mm} \aiOrcidSquare && Presentación
+    \end{tabular}
+\end{center}
+\end{frame}
+
+
+\end{document}
