@@ -19,7 +19,7 @@
     <br />
     Abrir en 
     <br />
-    <a href="https://www.overleaf.com/read/gbmfjbcznhrd#3f2a21">
+    <a href="https://www.overleaf.com/read/dwgyttknhpyn#492593">
     <img src="https://img.shields.io/badge/Overleaf-47A141?logo=overleaf&logoColor=fff&style=for-the-badge" alt="Overleaf Badge">
     </a>
   </p>
@@ -28,7 +28,7 @@
 <!-- Cuerpo -->
 ## Sobre el Proyecto
 
-Este repositorio contiene el código para la presentación de la charla «Integración de ChatGPT en la Metodología de Aula Invertidaformulario» El documento en PDF se encuentra disponible en el siguiente enlace: [Formulario: Transformada de Laplace](https://github.com/andres-merino/Presentacion-ChatGPT-AulaInvertida/blob/main/FormularioLaplace.pdf).
+Este repositorio contiene el código para la presentación de la charla «Integración de ChatGPT en la Metodología de Aula Invertidaformulario» El documento en PDF se encuentra disponible en el siguiente enlace: [Presentación](https://github.com/andres-merino/Presentacion-ChatGPT-AulaInvertida/blob/main/AulaInvertida.pdf).
 
 ### Construido con
 
